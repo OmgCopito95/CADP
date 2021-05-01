@@ -70,6 +70,7 @@ el ingreso de la info finaliza cuando se ingresa la marca = ZZZ
           leer(auto);
         end;
 
+     end;
 
 
 
