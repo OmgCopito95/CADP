@@ -152,7 +152,7 @@ var
 Begin
   i:=1; //sirve para recorrer el vector
 
-  while (i<dimL)  do begin
+  while (i<=dimL)  do begin            //es menor igual asi tambien chequea la ultima posicion. sino no lo borra
 
      if(v[i].distanciaRecorrida = 100)then   //si la distancia del viaje es 100 -> entonces lo borro
        BorrarPosModif(v,dimL,i)  //borra el viaje de 100km
