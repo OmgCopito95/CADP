@@ -47,9 +47,9 @@ Begin
 
   while (i<=dimL)  do begin
 
-     if(v[i] = elem)then   //si la distancia del viaje es 100 -> entonces lo borro
-       BorrarPosModif(v,dimL,i)  //borra el viaje de 100km
-     else // si no borre el elemento -> avanzo
+     if(v[i] = elem)then   //si el numero del vector es el que busco -> entonces lo borro
+       BorrarPosModif(v,dimL,i)  //borro el numero del vector
+     else // si no borra el elemento -> avanzo
        i := i+1; //avanzo en el vector
   end;
 
