@@ -29,9 +29,9 @@
 
 - **[Enunciados](https://github.com/OmgCopito95/CADP/tree/main/2021/Pr%C3%A1cticas)**
 - Turno 2 :sun_with_face:
-    - **[:point_right: Turno 2 - Clases Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2021/Turno%202)**
+    - **[Turno 2 - Clases Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2021/Turno%202)**
 - Turno 3 :new_moon_with_face:
-    - **[:point_right: Turno 3 - Clases Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2021/Turno%203)**
+    - **[Turno 3 - Clases Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2021/Turno%203)**
 
 ## Ejercicios de Ayuda
 
