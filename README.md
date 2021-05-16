@@ -41,6 +41,7 @@
 - **[Minimos](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/Minimos)**
 - **[Maximos](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/Maximos)**
 - **[Listas](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/LISTAS)**
+- **[Descomposicion de números](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/Descomposicion%20de%20Numeros)**
 
 
 ## Ejercicios Resueltos :gift:
