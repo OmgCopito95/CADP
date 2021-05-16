@@ -1,7 +1,21 @@
-# CADP
-Contenido de las consultas prácticas de la cátedra de CADP de la facultad de Informática UNLP
 
-ES IMPORTANTE ASISTIR A LAS CLASES PORQUE NO TODAS LAS CORRECCIONES ESTAN ANOTADAS!!
+<div align="center">  
+  <p Consultas Prácticas CADP</p>
+  <p align="center">
+     Contenido de las consultas prácticas de la cátedra de CADP de la <strong> Facultad de Informática UNLP </strong>
+  </p>
+  <hr>
+</div>
+
+<div align="center">  
+  <p align="center">
+  <sub>
+    ES IMPORTANTE ASISTIR A LAS CLASES PORQUE NO TODAS LAS CORRECCIONES ESTAN ANOTADAS!!
+  </sub>
+  </p>
+  
+  <hr>
+</div>
 
 ## Parciales
 - **[2019](https://github.com/OmgCopito95/CADP/tree/main/2019/Parciales)**
