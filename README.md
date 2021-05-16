@@ -37,6 +37,11 @@
 
 - **[Corte de Control](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Corte%20de%20Control)**
 - **[Vectores](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Vectores)**
+  - **[Vectores - Algoritmos Básicos](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/VECTORES)**
+- **[Minimos](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/Minimos)**
+- **[Maximos](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/Maximos)**
+- **[Listas](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/LISTAS)**
+
 
 ## Ejercicios Resueltos :gift:
 - **[Vectores](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Ejercicios%20Resueltos/Practica%204%20-%20Vectores)**
