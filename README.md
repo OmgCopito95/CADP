@@ -7,6 +7,8 @@
   <sub>
     :boom: ES IMPORTANTE ASISTIR A LAS CLASES PORQUE NO TODAS LAS CORRECCIONES ESTAN ANOTADAS :exclamation: :exclamation:
   </sub>
+  <br><br>
+  <i>Si se te ocurre algún ejemplo, tema o ejercicio que quieras que incluya:</i> <br>Anda a la sección de <b>ISSUES</b> y creá uno nuevo diciéndome lo que necesitas! 🙂
   <hr>
 </div>
 
