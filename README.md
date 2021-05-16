@@ -4,16 +4,9 @@
   <p align="center">
      Contenido de las consultas prácticas de la cátedra de CADP de la <strong> Facultad de Informática UNLP </strong>
   </p>
-  <hr>
-</div>
-
-<div align="center">  
-  <p align="center">
   <sub>
     ES IMPORTANTE ASISTIR A LAS CLASES PORQUE NO TODAS LAS CORRECCIONES ESTAN ANOTADAS!!
   </sub>
-  </p>
-  
   <hr>
 </div>
 
