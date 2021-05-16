@@ -5,7 +5,7 @@
      Contenido de las consultas prácticas de la cátedra de CADP de la <strong> Facultad de Informática UNLP :computer: </strong>
   </p>
   <sub>
-    ES IMPORTANTE ASISTIR A LAS CLASES PORQUE NO TODAS LAS CORRECCIONES ESTAN ANOTADAS!!
+    :boom: ES IMPORTANTE ASISTIR A LAS CLASES PORQUE NO TODAS LAS CORRECCIONES ESTAN ANOTADAS :exclamation: :exclamation:
   </sub>
   <hr>
 </div>
