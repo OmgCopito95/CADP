@@ -37,7 +37,7 @@
 
 ## Ejercicios de Ayuda
 
-- **[Preguntas Frecuentes](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Preguntas%20Frecuentes)
+- **[Preguntas Frecuentes](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Preguntas%20Frecuentes)**
 - **[Corte de Control](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Corte%20de%20Control)**
 - **[Vectores](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Vectores)**
   - **[Vectores - Algoritmos Básicos](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/VECTORES)**
