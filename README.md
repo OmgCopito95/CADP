@@ -15,6 +15,7 @@
 ## Parciales :skull:
 - **[2019](https://github.com/OmgCopito95/CADP/tree/main/2019/Parciales)**
 - **[2020](https://github.com/OmgCopito95/CADP/tree/main/2020/Parciales)**
+- **[Parciales Programación I - Ing.Computación](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20para%20Practicar/Parciales%20Progra%20I%20-%20Ing%20Computacion)**
 
 ## Prácticas 2020 :older_woman:
 - **[Contenido](https://github.com/OmgCopito95/CADP/tree/main/2020/Segundo%20Semestre)**
@@ -52,4 +53,4 @@
 
 ## Ejercicios para Practicar 
 - **[Pepito el Pastelero :trollface:](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20para%20Practicar/Pepito%20El%20Pastelero)**
-- **[Parciales Programación I - Ing.Computación](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20para%20Practicar/Parciales%20Progra%20I%20-%20Ing%20Computacion)** 
+ 
