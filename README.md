@@ -37,7 +37,7 @@
 - Turno 3 :new_moon_with_face:
     - **[Turno 3 - Clases Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2021/Turno%203)**
 
-## Ejercicios de Ayuda
+## Códigos de Ayuda
 
 - **[Preguntas Frecuentes](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Preguntas%20Frecuentes)**
 - **[Corte de Control](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Corte%20de%20Control)**
