@@ -16,7 +16,7 @@
 - **[2019](https://github.com/OmgCopito95/CADP/tree/main/2019/Parciales)**
 - **[2020](https://github.com/OmgCopito95/CADP/tree/main/2020/Parciales)**
 - **[Parciales Programación I - Ing.Computación](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20para%20Practicar/Parciales%20Progra%20I%20-%20Ing%20Computacion)**
-- **[2021](https://github.com/OmgCopito95/CADP/tree/main/2021/Parciales/Primera%20Fecha)**
+- **[2021](https://github.com/OmgCopito95/CADP/tree/main/2021/Parciales)**
 
 ## Prácticas 2020 :older_woman:
 - **[Contenido](https://github.com/OmgCopito95/CADP/tree/main/2020/Segundo%20Semestre)**
@@ -37,7 +37,7 @@
 - Turno 3 :new_moon_with_face:
     - **[Turno 3 - Clases Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2021/Turno%203)**
 
-## Ejercicios de Ayuda
+## Códigos de Ayuda
 
 - **[Preguntas Frecuentes](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Preguntas%20Frecuentes)**
 - **[Corte de Control](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Corte%20de%20Control)**
