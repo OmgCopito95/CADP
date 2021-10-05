@@ -8,7 +8,7 @@
     <strong>RECURSADOS</strong> es una aplicación que busca ayudar a los estudiantes a repasar antes de los parciales de la universidad y a afianzar su conocimiento.
   </p>
     <div align="CENTER">
-      <img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/bPKgrHS/LOGO.png" alt="LOGO" alt="1" alt="1" width="100" height="100" border="0">
+     <img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/Scbc3Pf/LOGO-adobespark.png" alt="LOGO" alt="1" alt="1" width="100" height="100" border="0">
     <br/>
 </div>
 </div>
