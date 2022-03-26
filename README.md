@@ -16,6 +16,7 @@
 
 ---
 -->
+
 <div align="center">  
   <p Consultas Prácticas CADP</p>
   <p align="center">
@@ -26,6 +27,10 @@
   </sub>
   <br><br>
  Si se te ocurre algún ejemplo, tema o ejercicio que quieras que incluya: <br> <i>Anda a la sección de <b><a href="https://github.com/OmgCopito95/CADP/issues">ISSUES</a></b> y creá uno nuevo diciéndome lo que necesitas!</i> 🙂
+  
+  ---
+  
+  **[✨ Resumen Práctico ✨](https://www.notion.so/copitosystem/CADP-Resumen-Practico-31870fbaf3f043e49f9917a658af62f0)**
   <hr>
 </div>
 
