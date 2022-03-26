@@ -30,7 +30,8 @@
   
   ---
   
-  **[✨ Resumen Práctico ✨](https://www.notion.so/copitosystem/CADP-Resumen-Practico-31870fbaf3f043e49f9917a658af62f0)**
+  <b><a href="https://www.notion.so/copitosystem/CADP-Resumen-Practico-31870fbaf3f043e49f9917a658af62f0" target="_blank">✨ Resumen Práctico ✨</a></b>
+
   <hr>
 </div>
 
