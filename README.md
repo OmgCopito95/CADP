@@ -65,7 +65,7 @@
    - **[Explicaciones Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2022/Explicaciones%20Pr%C3%A1cticas)**
    - **[Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2022/Pr%C3%A1cticas)**
    - **[Teoría](https://github.com/OmgCopito95/CADP/tree/main/2022/Teor%C3%ADas)**
-   - **[Consultas Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2022/Consultas%20Pr%C3%A1cticas)**
+   - **[Consultas Prácticas Virtuales 🖥️](https://github.com/OmgCopito95/CADP/tree/main/2022/Consultas%20Pr%C3%A1cticas)**
 
 ## Códigos de Ayuda
 
