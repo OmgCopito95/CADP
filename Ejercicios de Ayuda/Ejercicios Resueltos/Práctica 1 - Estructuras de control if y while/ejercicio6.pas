@@ -47,6 +47,8 @@ begin
 
    writeln('La cantidad de alumnos leída es: ', cantidad); //imprimo la cantidad de alumnos leídos
    writeln('La cantidad de alumnos cuyo promedio supera 6.5 es: ', cantidad_destacados); //imprimo la cantidad de alumnos cuyo promedio supera 6.5
+   
+   //SE PODRIA CHEQUEAR QUE NO SE ESTÉ DIVIDIENDO POR CERO
    writeln('El porcentaje de alumnos destacados (alumnos con promedio mayor a 8.5) cuyo legajo sean menor al valor 2500 es: ', porcentaje_destacados / cantidad * 100:2:2); //imprimo el porcentaje de alumnos destacados
 
    readln;
