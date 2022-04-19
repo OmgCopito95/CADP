@@ -82,7 +82,4 @@
 - **[Pepito el Pastelero :trollface:](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20para%20Practicar/Pepito%20El%20Pastelero)**
  
 ## Ejercicios Resueltos 🎁
-- Elegí el branch de "ejercicios" y en las carpetas habrá algunos ejercicios resueltos!
-
-![imagen](https://user-images.githubusercontent.com/18623248/162764317-9cfb5ecf-ba58-4f47-af57-e780a960b60d.png)
 
