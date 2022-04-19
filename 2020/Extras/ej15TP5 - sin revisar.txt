@@ -1,0 +1,84 @@
+program ej15TP5;
+type
+  desarrollador = record
+    pais: string;
+    proyecto: integer;
+    nombreProyecto: string;
+    rol: integer;
+    horas: integer;
+  end;
+
+  max = record
+    monto: real;
+    cantArqSoft: integer;
+  end;
+
+  proyecto = array [1..1000] of max;
+  sueldos = array [1..5] of real;
+
+procedure lecturaDesarrollador(var d: desarrollador);
+begin
+  readln(d.proyecto);
+  if (d.proyecto <> -1) then begin
+    readln(d.pais);
+    readln(d.nombreProyecto);
+    readln(d.rol);
+    readln(d.horas);
+  end;
+end;
+
+procedure calcularMontoTotalArg(var montoTotalArg: real; d:desarrollador;s:sueldos);
+begin
+  if (d.pais = 'Argentina') then
+    montoTotalArg:= montoTotalArg + d.horas * s[d.rol];
+end;
+
+procedure calcularHorasBaseDatos(var horasBaseDatos: integer; d:desarrollador; s:sueldos);
+begin
+  if (d.rol = 3) then
+    horasBaseDatos:= horasBaseDatos + d.horas * s[d.rol];
+end;
+
+procedure mayorMontoInvertidoYArquitectos(var p: max);
+var
+  i: integer;
+  maxMonto: real;
+  maxProyecto: integer;
+begin
+  maxMonto:= -999;
+  for i:=1 to 1000 do begin;
+    if (p[i].monto > maxMonto) then begin
+      maxMonto:= p[i].monto;
+      maxProyecto:= i;
+    end;
+    writeln(p[i].cantArqSoft); {arquitectos de software por proyecto}
+  end;
+  writeln(maxProyecto); {proyecto con mayor monto invertido}
+end;
+
+procedure lecturaYProceso(var montoTotalArg: real; var horasBaseDatos: integer; var maxProyectos: proyecto; s: sueldos);
+var
+  d: desarrollador;
+begin
+  lecturaDesarrollador(d);
+  while (d.proyecto <> -1) do begin
+    calcularMontoTotalArg(montoTotalArg, d, s);
+    calcularHorasBaseDatos(horasBaseDatos, d, s);
+    maxProyectos[d.proyecto].monto:= maxProyectos[d.proyecto].monto + d.horas * s[d.rol]; // falta inicializar en -1
+    if (d.rol = 4) then
+       maxProyectos[d.proyecto].cantArqSoft:= maxProyectos[d.proyecto].cantArqSoft + 1;
+    mayorMontoInvertidoYArquitectos(maxProyectos);
+  end;
+end;
+var
+  montoTotalArg: real;
+  horasBaseDatos: integer;
+  maxProyectos: proyecto;
+  s: sueldos;
+begin
+  cargarSueldos(s); {se dispone}
+  montoTotalArg:=0;
+  horasBaseDatos:=0;
+  lecturaYProceso(montoTotalArg, horasBaseDatos, maxProyectos,s);
+end.
+
