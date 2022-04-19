@@ -35,48 +35,6 @@
   <hr>
 </div>
 
-## Parciales :skull:
-- **[2019](https://github.com/OmgCopito95/CADP/tree/main/2019/Parciales)**
-- **[2020](https://github.com/OmgCopito95/CADP/tree/main/2020/Parciales)**
-- **[Parciales Programación I - Ing.Computación](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20para%20Practicar/Parciales%20Progra%20I%20-%20Ing%20Computacion)**
-- **[2021 - Primer Semestre](https://github.com/OmgCopito95/CADP/tree/main/2021/Primer%20Semestre/Parciales)**
-- **[2021 - Segundo Semestre](https://github.com/OmgCopito95/CADP/tree/main/2021/Segundo%20Semestre)**
-
-## Prácticas 2020 :older_woman: 
-- **[Contenido](https://github.com/OmgCopito95/CADP/tree/main/2020/Segundo%20Semestre)**
-   - **[Explicaciones Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2020/Segundo%20Semestre/Explicaciones%20pr%C3%A1cticas)**
-   - **[Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2020/Segundo%20Semestre/Pr%C3%A1cticas)**
-   - **[Teoría](https://github.com/OmgCopito95/CADP/tree/main/2020/Segundo%20Semestre/Teoria)**
-      - **[Ejercicios Resueltos De Teoría](https://github.com/OmgCopito95/CADP/tree/main/2020/Segundo%20Semestre/Teoria/ejercicios%20resueltos%20de%20teoria)**
-   - Turno 3
-      - **[Actividades Obligatorias](https://github.com/OmgCopito95/CADP/tree/main/2020/Segundo%20Semestre/Turno%203/Actividades%20Obligatorias)**
-   - Turno 4
-      - **[Actividades Obligatorias](https://github.com/OmgCopito95/CADP/tree/main/2020/Segundo%20Semestre/Turno%203/Actividades%20Obligatorias)**
-
-## Prácticas 2021 :mask:
-- **[Contenido](https://github.com/OmgCopito95/CADP/tree/main/2021)**
-  - Turno 2 :sun_with_face:
-    - **[Turno 2 - Clases Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2021/Primer%20Semestre/Turno%202)**
-  - Turno 3 :new_moon_with_face:
-    - **[Turno 3 - Clases Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2021/Primer%20Semestre/Turno%203)**
-
-## Prácticas 2022 - Primer Semestre 🧚‍♀️
-- **[Contenido](https://github.com/OmgCopito95/CADP/tree/main/2022)**
-   - **[Explicaciones Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2022/Explicaciones%20Pr%C3%A1cticas)**
-   - **[Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2022/Pr%C3%A1cticas)**
-   - **[Teoría](https://github.com/OmgCopito95/CADP/tree/main/2022/Teor%C3%ADas)**
-   - **[Consultas Prácticas Virtuales 🖥️](https://github.com/OmgCopito95/CADP/tree/main/2022/Consultas%20Pr%C3%A1cticas)**
-
-## Códigos de Ayuda
-
-- **[Preguntas Frecuentes](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Preguntas%20Frecuentes)**
-- **[Corte de Control](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Corte%20de%20Control)**
-- **[Vectores](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Vectores)**
-  - **[Vectores - Algoritmos Básicos](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/VECTORES)**
-- **[Minimos](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/Minimos)**
-- **[Maximos](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/Maximos)**
-- **[Listas](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/LISTAS)**
-- **[Descomposicion de números](https://github.com/OmgCopito95/Algoritmos-Basicos/tree/master/IMPERATIVO/Descomposicion%20de%20Numeros)**
 
 ## Ejercicios para Practicar 
 - **[Pepito el Pastelero :trollface:](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20para%20Practicar/Pepito%20El%20Pastelero)**
@@ -86,3 +44,9 @@
 
 ![imagen](https://user-images.githubusercontent.com/18623248/162764317-9cfb5ecf-ba58-4f47-af57-e780a960b60d.png)
 
+
+## Ejercicios Resueltos :gift:
+- **[Práctica 0](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Ejercicios%20Resueltos/Pr%C3%A1ctica%200%20-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n)**
+- **[Práctica 1 - Parte 1](https://github.com/OmgCopito95/CADP/tree/ejercicios_resueltos/Ejercicios%20de%20Ayuda/Ejercicios%20Resueltos/Pr%C3%A1ctica%201%20-%20Estructuras%20de%20control%20if%20y%20while)**
+- **[Práctica 1 - Parte 2](https://github.com/OmgCopito95/CADP/tree/ejercicios_resueltos/Ejercicios%20de%20Ayuda/Ejercicios%20Resueltos/Pr%C3%A1ctica%201%20-%20Estructuras%20de%20control%20for%20y%20repeat-until)**
+- **[Práctica 4](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Ejercicios%20Resueltos/Practica%204%20-%20Vectores)**
