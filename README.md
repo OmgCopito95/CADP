@@ -66,6 +66,14 @@
    - **[Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2022/Pr%C3%A1cticas)**
    - **[Teoría](https://github.com/OmgCopito95/CADP/tree/main/2022/Teor%C3%ADas)**
    - **[Consultas Prácticas Virtuales 🖥️](https://github.com/OmgCopito95/CADP/tree/main/2022/Consultas%20Pr%C3%A1cticas)**
+   
+## Prácticas 2023 - Primer Semestre 🧠
+- **[Contenido](https://github.com/OmgCopito95/CADP/tree/main/2023)**
+   - **[Explicaciones Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2023/Explicaciones%20Pr%C3%A1cticas)**
+   - **[Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2023/Pr%C3%A1cticas)**
+   - **[Teoría](https://github.com/OmgCopito95/CADP/tree/main/2023/Teor%C3%ADa)**
+   - **[Consultas Prácticas Virtuales 🖥️](https://github.com/OmgCopito95/CADP/tree/main/2023/Consultas%20Pr%C3%A1cticas)**
+   
 
 ## Códigos de Ayuda
 
@@ -86,4 +94,5 @@
 - **[Práctica 1 - Parte 1](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Ejercicios%20Resueltos/Pr%C3%A1ctica%201%20-%20Estructuras%20de%20control%20if%20y%20while)**
 - **[Práctica 1 - Parte 2](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Ejercicios%20Resueltos/Pr%C3%A1ctica%201%20-%20Estructuras%20de%20control%20for%20y%20repeat-until)**
 - **[Práctica 2 - Parte 1](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Ejercicios%20Resueltos/Pr%C3%A1ctica%202%20-%20Parte%201)**
+- **[Práctica 2 - Parte 2](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Ejercicios%20Resueltos/Pr%C3%A1ctica%202%20-%20Parte%202)**
 - **[Práctica 4](https://github.com/OmgCopito95/CADP/tree/main/Ejercicios%20de%20Ayuda/Ejercicios%20Resueltos/Practica%204%20-%20Vectores)**
