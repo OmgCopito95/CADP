@@ -4,10 +4,6 @@ pares y la cantidad de dígitos impares que posee.}
 
 program ejercicio8;
 
-var
-    numero, sumaPares, cantImpares: integer;
-
-
 procedure procesarNumero(numero: integer; var sumaPares, cantImpares: integer); //paso por referencia las dos variables que quiero que se modifiquen en el programa principal
 var
 
@@ -23,6 +19,9 @@ begin
     end;
 
 end;
+
+var
+    numero, sumaPares, cantImpares: integer;
 
 begin
     readln(numero); //leo el primer numero
