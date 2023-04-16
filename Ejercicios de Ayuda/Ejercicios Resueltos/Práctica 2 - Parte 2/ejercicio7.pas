@@ -16,7 +16,7 @@ begin
     sumaDeDigitos:=0;
 
     while (numero <> 0) do begin // hago el bucle hasta que el numero sea 0, es decir, termine de procesar todos los digitos
-        digito:= numero mod 2; // obtengo el digito ej: 1234 -> 4
+        digito:= numero mod 10; // obtengo el digito ej: 1234 -> 4
         cantidadDeDigitos:=cantidadDeDigitos+1; // sumo 1 al contador de digitos
         sumaDeDigitos:=sumaDeDigitos+digito; // sumo el valor del digito a la variable que suma
         numero:=numero div 10; // elimino el digito procesado del numero ej: 1234 -> 123 
