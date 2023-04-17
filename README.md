@@ -26,7 +26,7 @@
     :boom: ES IMPORTANTE ASISTIR A LAS CLASES PORQUE NO TODAS LAS CORRECCIONES ESTAN ANOTADAS O PUEDEN HABER ERRORES :exclamation: :exclamation:
   </sub>
   <br><br>
- Si se te ocurre algún ejemplo, tema o ejercicio que quieras que incluya: <br> <i>Anda a la sección de <b><a href="https://github.com/OmgCopito95/CADP/issues">ISSUES</a></b> y creá uno nuevo diciéndome lo que necesitas!</i> 🙂
+ Si se te ocurre algún ejemplo, tema o ejercicio que quieras que incluya: <br> <i>Anda a la sección de <b><a href="https://github.com/OmgCopito95/CADP/issues">ISSUES</a></b> y creá uno nuevo diciéndome lo que necesitas o enviame un mail!</i> 🙂
   
   ---
   
