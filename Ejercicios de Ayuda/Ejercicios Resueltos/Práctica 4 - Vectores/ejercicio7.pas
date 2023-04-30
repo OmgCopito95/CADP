@@ -21,16 +21,7 @@ begin
   while (numero <> 0) do begin
     dig := numero MOD 10; // extrae el último dígito
     v[dig] := v[dig] + 1; // incrementa el contador del dígito
-    numero := numero DIV 10; // quita el último dígito del número
-  end;
-end;
-
-procedure imprimirVector(v: vector);
-var
-  i: rango;
-begin
-  for i := 0 to dimF do begin
-    writeln('el digito ', i, ' aparecio ', v[i], ' veces.');
+    numero := numero DIV 10; // borra el último dígito del número
   end;
 end;
 
@@ -43,10 +34,10 @@ begin
   end;
 end;
 
-procedure actualizarMaximo(cuenta: integer; i: rango; var max: integer; var digMasLeido: rango);
+procedure actualizarMaximo(numero: integer; i: rango; var max: integer; var digMasLeido: rango);
 begin
-  if cuenta > max then begin
-    max := cuenta;
+  if numero > max then begin
+    max := numero;
     digMasLeido := i;
   end;
 end;
@@ -58,11 +49,12 @@ var
 begin
   max := -1;
   for i := 0 to dimF do begin
+
     if v[i] > 0 then begin
       writeln('el digito ', i, ' aparecio ', v[i], ' veces.');
-    end else begin
+    end else 
       writeln('el digito ', i, ' no tuvo ocurrencias.');
-    end;
+    
     actualizarMaximo(v[i], i, max, digMasLeido);
   end;
   writeln('el digito mas leido es ', digMasLeido, ', con ', max, ' ocurrencias.');
