@@ -44,7 +44,8 @@ end;
 
 procedure recorrerVector(v: vector);
 var
-  max, digMasLeido: integer;
+  max: integer;
+  digMasLeido: rango;
   i: rango;
 begin
   max := -1;
@@ -52,9 +53,9 @@ begin
 
     if v[i] > 0 then begin
       writeln('el digito ', i, ' aparecio ', v[i], ' veces.');
-    end else 
+    end else
       writeln('el digito ', i, ' no tuvo ocurrencias.');
-    
+
     actualizarMaximo(v[i], i, max, digMasLeido);
   end;
   writeln('el digito mas leido es ', digMasLeido, ', con ', max, ' ocurrencias.');
@@ -72,4 +73,6 @@ begin
     read(num);
   end;
   recorrerVector(v);
+  readln;
+  readln;
 end.
