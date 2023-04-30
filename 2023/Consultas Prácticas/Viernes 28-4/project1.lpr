@@ -71,7 +71,6 @@ begin
     end else
       writeln('el digito ', i, ' no tuvo ocurrencias.');
 
-  end;
   writeln('el dig mas leido es ',digMasLeido);
 end;
 
