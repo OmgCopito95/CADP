@@ -24,7 +24,7 @@ type
   end;
 
   rango = 1..dimF;
-  vector = array[rango] of alumno; 
+  vector = array[rango] of alumno;
 
 procedure leerAlumno(var a:alumno);
 begin
@@ -47,7 +47,7 @@ var
    a: alumno;
 begin
    leerAlumno(a); // leo el primer alumno
-   while (a.insc <> -1) and (dimL < dimF) do begin // si no es insc -1 y no se llenó el vector
+   while (a.dni <> -1) and (dimL < dimF) do begin // si no es dni -1 y no se llenó el vector
       dimL := dimL + 1; // incremento la dimension logica
       v[dimL] := a; // guardo el alumno en la posicion dimL
       leerAlumno(a); // leo el siguiente alumno
@@ -77,7 +77,7 @@ var
   soloPares: boolean;
 begin
     soloPares := true; // inicializo el booleano en true para cortar el while si hay un digito impar y no seguir recorriendo el dni
-    while (dni <> 0) and (soloPares) do begin 
+    while (dni <> 0) and (soloPares) do begin
         dig := dni mod 10; // tomo el ultimo digito del dni
         if (dig mod 2 <> 0) then // si el digito es impar
             soloPares := false; // pongo el booleano en false
@@ -89,17 +89,20 @@ end;
 
 procedure recorrerVector(v: vector; dimL: integer);
 var
-  i, porcentajeDniPares, edad: integer;
+  i, edad, max1, max2: integer;
+  porcentajeDniPares: real;
   apeMax1, nomMax1, apeMax2, nomMax2: cadena20;
 begin
     porcentajeDniPares := 0; // inicializo el contador en 0
+    max1:=-1;
+    max2:=-1;
 
     for i:=1 to dimL do begin
         if(dniSoloPares(v[i].dni)) then //hago una funcion para ver si el dni es solo pares
           porcentajeDniPares := porcentajeDniPares + 1; // si es solo pares incremento el contador
 
         //calculo la edad del alumno porque no la tengo. solo tengo anio de nacimiento
-        edad := 2023 - v[i].anio; 
+        edad := 2023 - v[i].anio;
 
         actualizarDosMaximos(max1, max2, nomMax1, nomMax2, apeMax1, apeMax2, edad, v[i].nombre, v[i].apellido);
     end;
@@ -115,10 +118,12 @@ end;
 
 var
   v: vector;
-  dimL: integer;  
+  dimL: integer;
 
 begin
   dimL := 0; // inicializo la dimension logica en 0 porque al principio el vector no tiene elementos
-  cargarVector(v, dimL); 
+  cargarVector(v, dimL);
   recorrerVector(v, dimL);
+  readln;
+  readln;
 end.
