@@ -64,13 +64,13 @@ var
 begin
   max:=-1;
   for i:=0 to dimF do begin
-     writeln('el digito ',i,' aparecio ',v[i],' veces.');    //a. la cantidad de ocurrencias de cada dígito procesado.
-
      actualizarMaximo(v[i],i,max,digMasLeido);
 
-     //los dígitos que no tuvieron ocurrencias.
-     if(v[i]=0)then
-       writeln('el dig',i,'no tuvo ocurrencias');
+     if v[i] > 0 then begin
+      writeln('el digito ', i, ' aparecio ', v[i], ' veces.');
+    end else
+      writeln('el digito ', i, ' no tuvo ocurrencias.');
+
   end;
   writeln('el dig mas leido es ',digMasLeido);
 end;
@@ -94,7 +94,7 @@ begin
 end;
 
 
-//--------------------------------------------
+//-------------------------------------------- INCOMPLETO - REVISAR
 
 {8. Realizar un programa que lea y almacene la información de 400 alumnos ingresantes a la Facultad de
 Informática de la UNLP en el año 2020. De cada alumno se lee: nro de inscripción, DNI, apellido, nombre y
@@ -132,6 +132,7 @@ begin
   while(a.dni<>-1) and (dimL<dimF) do begin
     dimL:=dimL+1; //incremento dimL porque agrego un nuevo elemento en el vector
     v[dimL]:=a;
+    leerAlumno(a);
   end;
 
 end;
