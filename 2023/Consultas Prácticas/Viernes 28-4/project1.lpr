@@ -128,7 +128,7 @@ var
 
 begin
   leerAlumno(a); //leo un alumno y cargo el registro
-  while(a.dni<>-1) and (dimL<dimF) do begin
+  while(a.insc<>-1) and (dimL<dimF) do begin
     dimL:=dimL+1; //incremento dimL porque agrego un nuevo elemento en el vector
     v[dimL]:=a;
     leerAlumno(a);
