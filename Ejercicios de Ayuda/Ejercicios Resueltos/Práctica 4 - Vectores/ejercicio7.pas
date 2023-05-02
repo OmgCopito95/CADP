@@ -18,10 +18,14 @@ procedure descomponerNumero(numero: integer; var v: vector);
 var
   dig: integer;
 begin
-  while (numero <> 0) do begin
-    dig := numero MOD 10; // extrae el último dígito
-    v[dig] := v[dig] + 1; // incrementa el contador del dígito
-    numero := numero DIV 10; // borra el último dígito del número
+  if(numero = 0)then //por si viene unicamente el numero 0
+    v[0] := v[0] + 1
+  else begin
+    while (numero <> 0) do begin
+      dig := numero MOD 10; // extrae el último dígito
+      v[dig] := v[dig] + 1; // incrementa el contador del dígito
+      numero := numero DIV 10; // borra el último dígito del número
+    end;
   end;
 end;
 
