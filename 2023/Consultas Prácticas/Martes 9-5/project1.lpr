@@ -79,7 +79,7 @@ begin
          //verifico si no termino el vector, si el anio es igual
 
          indiceMes:= vClientes[i].fecha.mes; //me quedo con el mes de la fecha del cliente
-         vMeses[indiceMes] := vMeses[indiceMes] + 1; //sumo un contrato en el mes correspondiente
+         vMeses[indiceMes] := vMeses[indiceMes] + 1; //sumo un contrato en el mes correspondiente (pensamos el enunciado como dos cosas separadas!)
 
          cantContratosAnio := cantContratosAnio + 1;
 
