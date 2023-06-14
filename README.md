@@ -66,6 +66,7 @@
    - **[Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2022/Pr%C3%A1cticas)**
    - **[Teoría](https://github.com/OmgCopito95/CADP/tree/main/2022/Teor%C3%ADas)**
    - **[Consultas Prácticas Virtuales 🖥️](https://github.com/OmgCopito95/CADP/tree/main/2022/Consultas%20Pr%C3%A1cticas)**
+   - **[Parciales](https://github.com/OmgCopito95/CADP/tree/main/2022/Parciales)**
    
 ## Prácticas 2023 - Primer Semestre 🧠
 - **[Contenido](https://github.com/OmgCopito95/CADP/tree/main/2023)**
@@ -73,6 +74,7 @@
    - **[Prácticas](https://github.com/OmgCopito95/CADP/tree/main/2023/Pr%C3%A1cticas)**
    - **[Teoría](https://github.com/OmgCopito95/CADP/tree/main/2023/Teor%C3%ADa)**
    - **[Consultas Prácticas Virtuales 🖥️](https://github.com/OmgCopito95/CADP/tree/main/2023/Consultas%20Pr%C3%A1cticas)**
+   - **[Parciales](https://github.com/OmgCopito95/CADP/tree/main/2023/Parciales)**
    
 
 ## Códigos de Ayuda
