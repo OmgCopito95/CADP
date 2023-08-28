@@ -30,7 +30,7 @@
   
   ---
   
-  <b><a href="https://juli-guias.notion.site/CADP-Conceptos-de-Algoritmos-Datos-y-Programas-f9b8410d3d444236867729dfc2127b8a" target="_blank">✨ Resumen Práctico ✨</a></b>
+  <b><a href="https://julietalanciotti.notion.site/CADP-Resumen-Pr-ctico-f9b8410d3d444236867729dfc2127b8a?pvs=4" target="_blank">✨ Resumen Práctico ✨</a></b>
 
   <hr>
 </div>
